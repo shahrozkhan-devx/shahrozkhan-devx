@@ -1,47 +1,40 @@
-## Building in public
-
 <div align="center">
+  <img src="./assets/profile-banner.svg" alt="Shahroz Khan - Full-Stack Developer" width="100%" />
 
-# SHAHROZ KHAN 
-
-> Technical founder
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=shahrozkhan-tech&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F233453423%3Fu%3D68f01dfcb3c4ac88dbb8b01dae3715757af1aded%26v%3D4" alt="shahrozkhan-tech hero visual" />
-</p>
-
+  <p>
+    <a href="https://shahrozkhan-dev.netlify.app/">Portfolio</a>
+    &nbsp;|&nbsp;
+    <a href="https://github.com/shahrozkhan-tech">GitHub</a>
+    &nbsp;·&nbsp;
+    Karachi, Pakistan
+  </p>
 </div>
 
-## The point of view
+## About
 
-> MERN Stack Developer || Frontend Developer, HTML, CSS,Javascript, React, Nodejs, boostap, Canva Design , Content Creation
+I'm a full-stack developer with a diploma in Mobile App and Web Development. I build responsive web experiences and practical applications, working across user interfaces, server-side features, and data.
 
-- 📍 Based in **Pakistan . karachi **
-- 👥 **4** followers · **5** following
+## Tech stack
 
-*Small, useful work over vague claims.*
+- **Frontend:** HTML, CSS, JavaScript, React, Bootstrap
+- **Backend:** Node.js, Express
+- **Data:** MongoDB, Supabase
+- **Tools:** Git, GitHub, Vercel
 
-## Products and proof
+## Selected projects
 
-<table>
-<tr><td width="32%"><b><a href="https://github.com/shahrozkhan-tech/Login-system-with-supabase">Login-system-with-supabase</a></b></td><td>🚀 A modern, fully responsive Login &amp; Signup Authentication System built using HTML, CSS, JavaScript, and Supabase Auth. Features beautiful UI animations and secure email verification!<br/><sub>HTML · 1 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/shahrozkhan-tech/Portfolio-advance-version-">Portfolio-advance-version-</a></b></td><td>🚀 An advanced, modern, and fully responsive personal portfolio website showcasing my frontend development projects, skills, and interactive UI designs. Built with HTML, CSS, JavaScript, and modern design principles.<br/><sub>HTML · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/shahrozkhan-tech/SMS">SMS</a></b></td><td>A selected project from this GitHub profile.<br/><sub>HTML · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/shahrozkhan-tech/Stock-Ledger">Stock-Ledger</a></b></td><td>A selected project from this GitHub profile.<br/><sub>HTML · 0 stars</sub></td></tr>
-</table>
+| Project | Overview |
+| --- | --- |
+| [HCM-LITE](https://github.com/shahrozkhan-tech/HCM-LITE) | Human resources workflows and dashboards for administrators, HR teams, and employees. |
+| [MaintainIQ-Supabase-Version-](https://github.com/shahrozkhan-tech/MaintainIQ-Supabase-Version-) | Maintenance management with Supabase-backed data and a responsive dashboard. |
+| [Stock-Ledger](https://github.com/shahrozkhan-tech/Stock-Ledger) | Inventory tracking with stock management and reporting workflows. |
+| [DropSpace](https://github.com/shahrozkhan-tech/DropSpace) | A file-sharing app with Supabase-backed storage and sharing features. |
+| [Portfolio-advance-version-](https://github.com/shahrozkhan-tech/Portfolio-advance-version-) | A responsive portfolio showcasing web projects and interface work. |
 
-## Momentum
+## Education
 
-<table>
-<tr><td align="center"><b>34</b><br/><sub>repos</sub></td><td align="center"><b>1</b><br/><sub>stars</sub></td><td align="center"><b>130</b><br/><sub>contributions</sub></td></tr>
-</table>
+**Diploma in Mobile App and Web Development**
 
-## Start a conversation
+## Connect
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=shahrozkhan-tech&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F233453423%3Fu%3D68f01dfcb3c4ac88dbb8b01dae3715757af1aded%26v%3D4" alt="shahrozkhan-tech social visual" />
-</p>
-
-<a href="https://github.com/shahrozkhan-tech">GitHub</a>
-
-<p align="center"><sub>SHAHROZ KHAN  · Founder profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+Visit my [portfolio](https://shahrozkhan-dev.netlify.app/) or explore my [repositories](https://github.com/shahrozkhan-tech?tab=repositories).
