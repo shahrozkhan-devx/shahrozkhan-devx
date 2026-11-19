@@ -70,7 +70,7 @@
 <text x="736" y="346" font-family="Inter,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#38bdf8">Next.js + shadcn/ui</text>
 <text x="736" y="368" font-family="Inter,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="13" fill="#94a3b8">learning right now</text></g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.4s" dur="0.8s" fill="freeze"/><circle cx="709" cy="420" r="8" fill="#080d1a" stroke="#eaf2ff" stroke-opacity=".3" stroke-width="2"/>
-<text x="736" y="418" font-family="Inter,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#94a3b8">TypeScript</text>
+<text x="736" y="418" font-family="Inter,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#94a3b8">javaScript</text>
 <text x="736" y="440" font-family="Inter,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="13" fill="#94a3b8">completes the frontend track</text></g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.65s" dur="0.8s" fill="freeze"/><circle cx="709" cy="492" r="8" fill="#080d1a" stroke="#eaf2ff" stroke-opacity=".3" stroke-width="2"/>
 <text x="736" y="490" font-family="Inter,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#94a3b8">Backend</text>
