@@ -25,4 +25,3 @@
   &nbsp;
   <a href="https://github.com/shahrozkhan-tech"><img src="assets/badge-github.svg" alt="GitHub" height="54" /></a>
 </p>
-
