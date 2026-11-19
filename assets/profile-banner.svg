@@ -3,32 +3,32 @@
   <desc id="description">A dark blue abstract banner with the subtitle Mobile and Web Development.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0b0b0b"/>
-      <stop offset="1" stop-color="#1a1a1a"/>
+      <stop offset="0" stop-color="#080d1a"/>
+      <stop offset="1" stop-color="#111827"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#f2f2f2"/>
-      <stop offset="1" stop-color="#888888"/>
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#8b5cf6"/>
     </linearGradient>
     <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" fill="none" stroke="#999999" stroke-opacity=".08"/>
+      <path d="M32 0H0V32" fill="none" stroke="#94a3b8" stroke-opacity=".08"/>
     </pattern>
   </defs>
   <rect width="1200" height="340" rx="24" fill="url(#background)"/>
   <rect width="1200" height="340" rx="24" fill="url(#grid)"/>
-  <circle cx="1020" cy="170" r="152" fill="#ffffff" fill-opacity=".08"/>
+  <circle cx="1020" cy="170" r="152" fill="#eaf2ff" fill-opacity=".08"/>
   <circle cx="1020" cy="170" r="112" fill="none" stroke="url(#accent)" stroke-opacity=".65" stroke-width="2"/>
-  <circle cx="1020" cy="170" r="78" fill="none" stroke="#cccccc" stroke-opacity=".35" stroke-width="1.5"/>
-  <path d="M920 170h200M1020 70v200" stroke="#cccccc" stroke-opacity=".22"/>
-  <rect x="958" y="126" width="124" height="88" rx="14" fill="#0b0b0b" stroke="url(#accent)" stroke-width="2"/>
-  <rect x="975" y="145" width="40" height="7" rx="3.5" fill="#f2f2f2"/>
-  <rect x="975" y="162" width="90" height="6" rx="3" fill="#777777"/>
-  <rect x="975" y="178" width="68" height="6" rx="3" fill="#777777"/>
-  <circle cx="1095" cy="105" r="8" fill="#888888"/>
-  <circle cx="929" cy="233" r="6" fill="#f2f2f2"/>
+  <circle cx="1020" cy="170" r="78" fill="none" stroke="#cbd5e1" stroke-opacity=".35" stroke-width="1.5"/>
+  <path d="M920 170h200M1020 70v200" stroke="#cbd5e1" stroke-opacity=".22"/>
+  <rect x="958" y="126" width="124" height="88" rx="14" fill="#080d1a" stroke="url(#accent)" stroke-width="2"/>
+  <rect x="975" y="145" width="40" height="7" rx="3.5" fill="#38bdf8"/>
+  <rect x="975" y="162" width="90" height="6" rx="3" fill="#94a3b8"/>
+  <rect x="975" y="178" width="68" height="6" rx="3" fill="#94a3b8"/>
+  <circle cx="1095" cy="105" r="8" fill="#8b5cf6"/>
+  <circle cx="929" cy="233" r="6" fill="#38bdf8"/>
   <path d="M64 76h58" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/>
   <text x="64" y="145" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" letter-spacing="1">SHAHROZ KHAN</text>
-  <text x="66" y="194" fill="#cccccc" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" letter-spacing="4">FULL-STACK DEVELOPER</text>
-  <text x="66" y="236" fill="#dddddd" font-family="Arial, Helvetica, sans-serif" font-size="18">Mobile &amp; Web Application Development</text>
-  <text x="66" y="286" fill="#999999" font-family="Arial, Helvetica, sans-serif" font-size="15">Building useful, responsive digital experiences</text>
+  <text x="66" y="194" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" letter-spacing="4">FULL-STACK DEVELOPER</text>
+  <text x="66" y="236" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="18">Mobile &amp; Web Application Development</text>
+  <text x="66" y="286" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="15">Building useful, responsive digital experiences</text>
 </svg>
